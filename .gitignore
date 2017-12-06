@@ -3,11 +3,12 @@ build-stamp
 configure-stamp
 debian/*.log
 debian/lsb-release-udeb
-tmp
+debian/tmp
 debian/*.substvars
 debian/files
 debian/debhelper-build-stamp
+debian/files~
 
 # Directory Paket
-debian/xenta-x-theme
+debian/lsb-release-udeb
 #gitpush
