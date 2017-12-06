@@ -1,0 +1,13 @@
+# Ignore Berkas Paket
+build-stamp
+configure-stamp
+debian/*.log
+debian/lsb-release-udeb
+tmp
+debian/*.substvars
+debian/files
+debian/debhelper-build-stamp
+
+# Directory Paket
+debian/xenta-x-theme
+#gitpush
