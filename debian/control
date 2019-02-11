@@ -1,7 +1,7 @@
 Source: base-files
 Section: admin
 Priority: required
-Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
 #Original-Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
 XSBC-Original-Maintainer: Santiago Vila <sanvila@debian.org>
 Standards-Version: 3.9.5

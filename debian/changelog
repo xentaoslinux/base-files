@@ -1,3 +1,10 @@
+base-files (99.2.0) batik; urgency=medium
+
+  * Memperbaharui berkas etc/*
+    Menambahkan Informasi Base sistem operasi Xenta OS
+
+ -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 11 Feb 2019 18:52:39 +0700
+
 base-files (99.1.3) arok; urgency=medium
 
   * Memperbaharui berkas etc/*
